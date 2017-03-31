@@ -1,17 +1,3 @@
-<!doctype html>
-<html>
-<head>
-
-</head>
-<body>
-  <h1>A Git Page for Leonard</h1>
-  <p> Some text </p>
-  <p> Some more text </p>
-
-  <pre>
-
-Does pre tag work in html5?
-
 mkdir ilaleo.github.io
 cd ilaleo.github.io/
 echo "# ilaleo.github.io" >> README.md
@@ -25,10 +11,5 @@ git add index.htm
 git commit
 git push -u origin master
 
-Besök sidan på ilaleo.github.io
 
-</pre>
-
-</body>
-</html>
 
